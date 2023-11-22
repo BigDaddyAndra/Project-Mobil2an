@@ -1,0 +1,13 @@
+@media screen and (max-width: 800px) {
+
+    #jalanan {
+        background: url(Hit\ the\ Road\,\ Jack!.jpg);
+        height: 1200vh;
+        width: 2rem;
+        position: relative;
+        top: -80vh;
+        z-index: -9;
+
+    }
+        
+}

@@ -1,0 +1,7 @@
+1. Efek Tabrakan (Suara, Visual, hasil)
+2. Ganti suara
+3. Pop up score
+4. Ganti map di setting
+5. Rute jalan belok
+6. Ganti Mobil
+ right = 960
